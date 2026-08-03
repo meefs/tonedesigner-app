@@ -4,7 +4,8 @@
 
 ToneDesigner is a visual, modular synthesizer platform that creates production-ready Tone.js code. Built with minimalist design principles inspired by Teenage Engineering and Nothing aesthetics, it provides an intuitive interface for building complex audio synthesizer patches.
 
-![ToneDesigner Interface](https://via.placeholder.com/800x400/000000/FFFFFF?text=ToneDesigner+Interface)
+> A visual modular synthesizer that exports production-ready Tone.js code.
+> Built by [Watusi](https://watusi.cloud) · [Case study](https://watusi.cloud/tonedesigner) · laervin.lightray@gmail.com
 
 ## ✨ Core Features
 
@@ -354,12 +355,16 @@ ToneDesigner follows strict architectural patterns. When contributing:
 
 [License information to be added]
 
-## 🔗 Links
+## Links
 
-- **Support**: [Buy Me a Coffee](https://buymeacoffee.com/watusi)
-- **GitHub**: [watusiii](https://github.com/watusiii)
-- **Website**: [watusi.cloud](https://watusi.cloud)
+- **All work** — [watusi.cloud](https://watusi.cloud)
+- **Contact** — laervin.lightray@gmail.com
+- **Support** — [Ko-fi](https://ko-fi.com/vivacarta)
+
+## License
+
+MIT
 
 ---
 
-**Built with ❤️ by watusi**
+**Built with ❤️ by watusiii**
